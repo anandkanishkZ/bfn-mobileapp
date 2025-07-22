@@ -1,0 +1,43 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Blood drop shadow -->
+    <path
+        android:fillColor="#80000000"
+        android:pathData="M62,110 C62,110 90,82 90,60 C90,38 74,22 60,22 C46,22 30,38 30,60 C30,82 58,110 62,110 Z"
+        android:fillType="nonZero"/>
+    
+    <!-- Main blood drop -->
+    <path
+        android:fillColor="#E53E3E"
+        android:pathData="M60,108 C60,108 88,80 88,58 C88,36 72,20 60,20 C48,20 32,36 32,58 C32,80 60,108 60,108 Z"
+        android:fillType="nonZero"/>
+    
+    <!-- Blood drop highlight -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M60,108 C60,108 88,80 88,58 C88,36 72,20 60,20 C48,20 32,36 32,58 C32,80 60,108 60,108 Z"
+        android:fillType="nonZero"/>
+    
+    <!-- Inner highlight (ellipse: cx=52, cy=45, rx=8, ry=12) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3"
+        android:pathData="M60,45 a8,12 0 1,0 -16,0 a8,12 0 1,0 16,0"/>
+    
+    <!-- Small highlight (ellipse: cx=48, cy=38, rx=3, ry=5) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.6"
+        android:pathData="M51,38 a3,5 0 1,0 -6,0 a3,5 0 1,0 6,0"/>
+    
+    <!-- Heart symbol inside -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.8"
+        android:pathData="M60,65 L55,60 C52,57 52,52 55,52 C57,52 58,53 60,55 C62,53 63,52 65,52 C68,52 68,57 65,60 L60,65 Z"
+        android:fillType="nonZero"/>
+</vector>

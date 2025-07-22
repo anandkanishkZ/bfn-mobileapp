@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Blood For Nepal</string>
+    
+    <!-- Splash Screen -->
+    <string name="splash_title">Blood For Nepal</string>
+    <string name="splash_tagline_nepali">रक्तदान - जीवनदान</string>
+    <string name="splash_tagline_english">Save Lives, Donate Blood</string>
+    <string name="splash_loading">Connecting donors…</string>
+    <string name="splash_version">Version 1.0.0</string>
+    <string name="splash_company">© 2025 Natraj Technology</string>
+    <string name="splash_made_with_love">Made with ❤️ in Nepal</string>
+    <string name="splash_ready_to_help">Ready to Help</string>
+    
+    <!-- Authentication -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_back">Welcome back,</string>
+    <string name="your_blood_type">Your Blood Type</string>
+    <string name="need_blood">Need Blood</string>
+    <string name="find_donors">Find Donors</string>
+    <string name="recent_blood_requests">Recent Blood Requests</string>
+    <string name="units_needed">Units needed: %1$d</string>
+    
+    <!-- Blood Types -->
+    <string name="blood_type_a_positive">A+</string>
+    <string name="blood_type_a_negative">A-</string>
+    <string name="blood_type_b_positive">B+</string>
+    <string name="blood_type_b_negative">B-</string>
+    <string name="blood_type_ab_positive">AB+</string>
+    <string name="blood_type_ab_negative">AB-</string>
+    <string name="blood_type_o_positive">O+</string>
+    <string name="blood_type_o_negative">O-</string>
+    
+    <!-- Urgency Levels -->
+    <string name="urgency_high">HIGH</string>
+    <string name="urgency_medium">MEDIUM</string>
+    <string name="urgency_low">LOW</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    
+    <!-- Content Descriptions -->
+    <string name="logo_description">Blood For Nepal Logo</string>
+    <string name="profile_picture_description">Profile Picture</string>
+    <string name="blood_drop_icon_description">Blood Drop Icon</string>
+    <string name="emergency_icon_description">Emergency Icon</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="back_button_description">Back</string>
+    <string name="menu_button_description">Menu</string>
+    <string name="show_password_description">Show Password</string>
+    <string name="hide_password_description">Hide Password</string>
+</resources>

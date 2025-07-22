@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18319406371",
+    "project_id": "blood-for-nepal-8472c",
+    "storage_bucket": "blood-for-nepal-8472c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18319406371:android:334a392a840d8623840896",
+        "android_client_info": {
+          "package_name": "com.natrajtechnology.bfn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaK3XcoPV7jsVeCYDvNNvi-tXOb8nQcJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
